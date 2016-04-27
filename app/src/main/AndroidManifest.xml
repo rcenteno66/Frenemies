@@ -29,5 +29,4 @@
             android:label="@string/title_activity_killer"
             android:theme="@style/FullscreenTheme"></activity>
     </application>
-
 </manifest>
