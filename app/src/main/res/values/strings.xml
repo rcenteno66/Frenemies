@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frenemies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_citizen">Citizen</string>
+    <string name="ready_button">Ready Up</string>
+
+    <string name="title_activity_killer">Killer</string>
+
+
+</resources>
