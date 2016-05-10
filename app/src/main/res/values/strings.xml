@@ -6,6 +6,8 @@
     <string name="ready_button">Ready Up</string>
 
     <string name="title_activity_killer">Killer</string>
+    <string name="title_activity_timer">TimerActivity</string>
+    <string name="title_activity_debate_timer">DebateTimer</string>
 
 
 </resources>

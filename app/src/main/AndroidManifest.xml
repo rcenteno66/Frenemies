@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cpe187.frenemies">
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -26,6 +27,23 @@
             android:name=".Killer"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_killer"
-            android:theme="@style/FullscreenTheme"></activity>
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".TimerActivity"
+            android:label="@string/title_activity_timer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".DebateTimer"
+            android:label="@string/title_activity_debate_timer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
+
 </manifest>
